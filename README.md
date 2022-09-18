@@ -19,11 +19,8 @@ shopping items, etc., and recommend a similar item. Whereas
 Collaborative Filtering technique uses the data related to the
 past interactions of the users with the items. Now the third
 category Hybrid Recommender Systems are quite unique,
-because they implement a combination of different techniques for improved performance. So, in this project we try
-experiment the Collaborative-based, and Hybrid
-recommender systems with the help of twitter sentiments and
-the famous MovieLens Dataset and find out if one is more
-advantageous than others. 
+because they implement a combination of different techniques for improved performance. So, in this project we try to 
+experiment the hybrid recommender systems to evaluaute their performance
 
 ## Project Architecture
 
